@@ -4,9 +4,9 @@ Hi there! I'm Vishwa 👋
 
 ## 🎓 About Me
 
-**University:** VIT Bhopal University
-**Branch:** Computer Science Engineering
-**Year:** 1st Year
+**University:** VIT Bhopal University<br>
+**Branch:** Computer Science Engineering<br>
+**Year:** 1st Year<br>
 
 ## 📚 About This Project
 
